@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **soniharsh1511@gmail.com**
 
-- ⚡ Fun fact **I love listening music while coding.**
+- ⚡ Fun fact **I like to listen music while coding.**
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krish2208" alt="krish2208" /></a> </p> -->
 
