@@ -5,11 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soniharsh1&label=Profile%20views&color=0e75b6&style=flat" alt="soniharsh1" /> </p>
 
 
-- 🌱 I’m currently learning **JavaScript, Node Js, React, Python.**
+- 🌱 I’m currently learning **MongoDB, Mongoose, React, C++, DSA.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SoniHarsh1](https://github.com/SoniHarsh1)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, TailwindCSS, C++, JavaScript.**
+- 💬 Ask me about **HTML, CSS, Bootstrap, TailwindCSS, C++, JavaScript, Node.js, Express.js.**
 
 - 📫 How to reach me **soniharsh1511@gmail.com**
 
