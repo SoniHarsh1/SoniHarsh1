@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" hight="40px" width ="40px"></img>, I'm Harsh Soni</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate MERN Stack developer</h3>
 <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="Coder GIF" align="right" width="400" border-radius="10px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soniharsh1&label=Profile%20views&color=0e75b6&style=flat" alt="soniharsh1" /> </p>
