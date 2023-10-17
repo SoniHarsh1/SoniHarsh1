@@ -71,7 +71,14 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SoniHarsh1" alt="SoniHarsh1" /></a> </p> -->
 <br />
-<h3 align="left">Github Stats:</h3>
+<!-- <h3 align="left">Github Stats:</h3> -->
+<h3>
+   <img
+       height="20em"
+		src="https://www.vectorlogo.zone/logos/github/github-tile.svg"
+		alt="github"
+	/>  &nbsp;GitHub
+  </h3>
 <p align="left">
   <!--
 	<img
@@ -82,8 +89,8 @@
   -->
   <img
        height="180em"
-		src="https://github-readme-stats.vercel.app/api/top-langs?username=SoniHarsh1&show_icons=true&locale=en&layout=compact"
-		alt="SoniHarsh1"
+	src="https://github-readme-stats.vercel.app/api/top-langs?username=SoniHarsh1&show_icons=true&locale=en&layout=compact&exclude_repo=IITISoC-23-Web-2-Alumni_Portal"
+	alt="SoniHarsh1"
 	/>
   &nbsp;
   &nbsp;
