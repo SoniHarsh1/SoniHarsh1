@@ -1,4 +1,4 @@
-<h1 align="center">Hey there!<!-- <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif"></img> --> 👋, This is <b>Harsh Soni</b></h1>
+<h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = '30px'></img>, This is <b>Harsh Soni</b></h1>
 <p align="center">
   <samp>
     「 B.Tech EE @  <b>IIT Indore</b> 」<br>
