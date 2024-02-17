@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SoniHarsh1](https://github.com/SoniHarsh1)
 
-<!-- - 💬 Ask me about **HTML, CSS, Bootstrap, TailwindCSS, C++, JavaScript, Django, Node.js, Express.js.** -->
+<!-- - 💬 Ask me about **C++, JavaScript, Django, Node.js, Express.js, MongoDB, React, Next.** -->
 
 - 📫 How to reach me **soniharsh1511@gmail.com**
 
@@ -29,7 +29,7 @@
   <img alig src="https://github-profile-trophy.vercel.app/?username=SoniHarsh1" />
 </p>
 -->
-<br />
+
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <h3 align="left">🤝🏻 &nbsp;Connect with me:</h3> 
@@ -58,11 +58,14 @@
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> &nbsp;
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" alt="django" width="40" height="40"/></a>  &nbsp;
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> &nbsp;
-<a href="https://www.sql.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sql" width="40" height="40"/> </a> &nbsp; 
+<a href="https://www.sql.org" target="_blank" rel="noreferrer"> <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" alt="sql" width="40" height="40"/> </a> &nbsp; 
 <a href="https://www.firebase.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /> </a> &nbsp;
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> &nbsp;
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  &nbsp;
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> &nbsp;
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="next" width="40" height="40"/> </a> &nbsp;
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> &nbsp;
+<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> &nbsp
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  &nbsp;
 </p>
  <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SoniHarsh1" alt="soniharsh1" /></a> </p> -->
@@ -107,3 +110,9 @@
 		alt="SoniHarsh1"
 	/>
 </p>
+<!-- <p align='left'>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SoniHarsh1&show_icons=true&locale=en" alt="SoniHarsh1" /></p> -->
+<!--
+<p align="left"> 
+	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SoniHarsh1" alt="SoniHarsh1" /></a> </p>
+<br />
+-->
