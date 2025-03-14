@@ -4,7 +4,7 @@
     「 B.Tech EE @  <b>IIT Indore</b> 」<br>
   </samp>
 </p>
-<h3 align="center">Web Development and Competitive Programming</h3>
+<h3 align="center">Full Stack Development and Competitive Programming</h3>
 <!-- <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="Coder GIF" align="right" width="400" border-radius="10px"> -->
 <!--
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" width="400" border-radius="10px"/>
@@ -13,7 +13,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soniharsh1&label=Profile%20views&color=0e75b6&style=flat" alt="soniharsh1" /> </p>
 <div>
 
-- 🌱 I’m currently learning **ML, DevOps, DSA.**
+- 🌱 I’m currently learning **DevOps, Java, ML, DSA.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SoniHarsh1](https://github.com/SoniHarsh1)
 
