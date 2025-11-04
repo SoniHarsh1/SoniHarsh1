@@ -99,7 +99,7 @@
   -->
   <img
        height="180em"
-	src="https://github-readme-stats.vercel.app/api/top-langs?username=SoniHarsh1&show_icons=true&locale=en&layout=compact&exclude_repo=IITISoC-23-Web-2-Alumni_Portal"
+	src="https://github-readme-stats.vercel.app/api/top-langs?username=SoniHarsh1&show_icons=true&theme=transparent&locale=en&layout=compact&exclude_repo=IITISoC-23-Web-2-Alumni_Portal"
 	alt="SoniHarsh1"
 	/>
   &nbsp;
@@ -108,7 +108,7 @@
   &nbsp;
 	<img
     height="180em"
-		src="https://github-readme-streak-stats.herokuapp.com/?user=SoniHarsh1"
+		src="https://github-readme-stats.vercel.app/api?username=soniharsh1&show_icons=true&theme=transparent&include_all_commits=true"
 		alt="SoniHarsh1"
 	/>
 </p>
