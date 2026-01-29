@@ -19,7 +19,7 @@
 
 <!-- - 💬 Ask me about **C++, JavaScript, Django, Node.js, Express.js, MongoDB, React, Next.** -->
 
-- 📫 How to reach me **soniharsh1511@gmail.com**
+- 📫 How to reach me **harshsoni.job@gmail.com**
 
 - ⚡ Fun fact **I like to listen music while coding.**
 
@@ -39,7 +39,7 @@
 <a href="https://www.linkedin.com/in/harsh-soni15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsh-soni15" height="30" width="40" /></a>
 -->
 <a href="https://www.linkedin.com/in/harsh-soni15" target="blank"><img align="center" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" alt="skj" height="50" width="50" /></a> &nbsp;
-<a href="mailto:soniharsh1511@gmail.com" target="blank"><img align="center" src="https://pngimg.com/uploads/gmail_logo/gmail_logo_PNG8.png" alt="skj" height="40" width="40" /></a> &nbsp;
+<a href="mailto:harshsoni.job@gmail.com" target="blank"><img align="center" src="https://pngimg.com/uploads/gmail_logo/gmail_logo_PNG8.png" alt="skj" height="40" width="40" /></a> &nbsp;
 <a href="https://www.instagram.com/_harshsoni15/" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Instagram-512.png" alt="skj" height="40" width="40" /></a>
 </p>
 <br />
